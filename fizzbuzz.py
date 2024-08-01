@@ -7,5 +7,7 @@ for num in range(1, 101):
         print (num , "Fizz")
     elif num % 5 == 0 :
         print (num , "Buzz")
+    else:
+        print(num)
 
 
